@@ -1,0 +1,3 @@
+com\shuvajit\pojo\Task.class
+com\shuvajit\controller\taskController.class
+com\shuvajit\taskManagement\TaskManagementApplication.class
