@@ -26,6 +26,6 @@ The goal was to learn and practice:
 
 ## Running the Project
 1. Run the Spring Boot application from STS (Spring Tool Suite for Eclipse).  
-2. Open the following URL in your browser:
-     Task Manager UI - [http://localhost:8080/index.html](http://localhost:8080/index.html)
+2. Open the following URL in your browser:  
+     Task Manager UI - [http://localhost:8080/index.html](http://localhost:8080/index.html)  
 You will see the Task Manager UI. Existing tasks are displayed, and new tasks can be added through the form.
